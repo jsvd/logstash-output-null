@@ -1,4 +1,5 @@
 # encoding: utf-8
+require "logstash-core"
 require "logstash/outputs/base"
 require "logstash/namespace"
 
